@@ -1,0 +1,32 @@
+.card {
+  margin: 12rem 4rem -6rem 4rem;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  transition: transform 0.6s ease-in-out;
+}
+.card:hover {
+  transform: scale(1.05); /* Scale up by 5% on hover */
+}
+.image-container {
+  width: auto;
+  height: 100%;
+}
+.card-img-top {
+  height: 100%;
+  object-fit: cover;
+}
+.text-style {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: 600;
+}
+.card-title {
+  margin-bottom: 1rem;
+}
+.button {
+  background: red;
+  border: none;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+.button:hover{
+  background-color: black;
+}

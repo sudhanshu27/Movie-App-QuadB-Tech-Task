@@ -1,0 +1,12 @@
+.head {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  
+}
+h1 {
+  font-size: 3.5rem;
+  margin: 3rem auto 1rem auto;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}

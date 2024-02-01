@@ -1,0 +1,17 @@
+.details-box {
+  text-align: justify;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  width: 80vw;
+  height: auto;
+  display: flex;
+}
+.text {
+  margin: 1rem;
+}
+.button-sum {
+  width: 70rem;
+  background: red;
+}
+.button-sum:hover {
+  background: black;
+}
